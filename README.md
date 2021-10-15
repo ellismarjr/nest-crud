@@ -1,8 +1,3 @@
-<h1 align="center">
-  API builded in NestJs
-</h1>
-
-
 <h4 align="center">
   App build with NestJS.
 </h4>
