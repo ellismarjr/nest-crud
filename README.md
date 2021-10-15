@@ -34,5 +34,5 @@ $ yarn start:dev
 ```
 
 ## API link
-- [API](https://nestjs-crud-jr.herokuapp.co)
+- [API](https://nestjs-crud-jr.herokuapp.com/users)
 
